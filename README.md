@@ -1,5 +1,10 @@
 # CV or Resume websites
- We create a cv it include personal information ,education, experience and References.
+ We create a cv it include personal information ,education, experience and References.My project is mycv. CV stants for a  curriculum vitea .curriculum vitea is lating word of "life story".
+In my cv we include personal information, experience , education and reference.
+Personla information include  name, address,phone and email.
+In expereince we add some decrepstion about internship and education describe information about graduation and schooling.
+In References we listed out few name like teacher from your place.
+We make a project using html and cs
  
 ## Live Demo
 https://vibrant-bardeen-6bbc88.netlify.app
